@@ -38,3 +38,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Editor de código - VSCode
+.vscode/
+.idea/
+
+# Server logs
+logs/
+*.log
+
+# Cache geral
+.cache/
